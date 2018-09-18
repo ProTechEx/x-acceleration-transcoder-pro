@@ -16,8 +16,10 @@ Software Features
 + Powerfull output streaming protocols: udp, http, rtmp, hls
 + Offline License: If you want using the Transcoder Offline, no problem with offline license
 
+****************************
+
 More Features: You will get lot of features with X-Acceleration Transcoder Pro
-*******************************************************************************
+
 The power of GPU Transcoding
 ****************************
 Feel the power of GPU based hardware transcoding ! Use the power of up to 4x graphics cards on a singe PC/Server.
